@@ -1,0 +1,7 @@
+interface:
+  display_name: "海翔简历工作室"
+  short_description: "用持续采访积累真实经历，按岗位制作美观且可追溯的中文简历"
+  default_prompt: "使用 $haixiang-resume 接着上次的采访，记录我的回答，并为新岗位优化简历。"
+
+policy:
+  allow_implicit_invocation: true

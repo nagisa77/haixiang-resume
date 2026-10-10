@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "id": "v0001-20261010-baseline",
+      "created_at": "2026-10-10T15:57:09+08:00",
+      "status": "draft",
+      "job_id": null,
+      "path": "versions/v0001-20261010-baseline",
+      "manifest_sha256": "a76315c1a7312e3334c6bccd1b955638e31c0546fed7b9929a358a70f0e831cf"
+    }
+  ]
+}

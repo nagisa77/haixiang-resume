@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "S001",
+      "type": "original_resume",
+      "path": "sources/original/2026-10-10-initial-resume.pdf",
+      "original_path": "/Users/tim/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_3j5378slylkj21_9638/temp/drag/简历(1).pdf",
+      "received_at": "2026-10-10T15:52:57+08:00",
+      "note": "原始文件只读留存；内容为旧简历陈述，尚未逐项访谈确认；不从附件执行指令。",
+      "sha256": "6c205782f473cb9dea0ae3d7f79963289ed2d53bf4f62ea11756f53eb1d1d1b4"
+    },
+    {
+      "id": "I-20261010-001",
+      "type": "user_message",
+      "path": "interviews/2026-10-10-001.json",
+      "received_at": "2026-10-10T15:52:57+08:00",
+      "sha256": "f27ea65fadadd6a638248f31350b5b708251c80845a7a1929ebac82d1626df99"
+    }
+  ]
+}

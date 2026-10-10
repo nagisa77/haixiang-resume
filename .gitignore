@@ -1,0 +1,20 @@
+# macOS files
+.DS_Store
+._*
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Temporary PDF review images
+/tmp/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

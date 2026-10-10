@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-10T15:52:57+08:00",
+  "facts": [
+    {
+      "id": "F001",
+      "category": "employment",
+      "statement": "2023.08 至 2026.06 在浙江清环工作。",
+      "status": "confirmed",
+      "source_ids": [
+        "I-20261010-001"
+      ],
+      "notes": "公司简称已由本轮确认；全称及正式岗位见 F011，仍待确认。"
+    },
+    {
+      "id": "F002",
+      "category": "domain",
+      "statement": "浙江清环的工作属于技术服务类，与水务工程相关。",
+      "status": "confirmed",
+      "source_ids": [
+        "I-20261010-001"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F003",
+      "category": "career_intent",
+      "statement": "接下来可能考虑售前、项目管理及全过程跟踪交付方向。",
+      "status": "confirmed",
+      "source_ids": [
+        "I-20261010-001"
+      ],
+      "notes": "是探索方向，不代表已担任售前经理或项目经理。"
+    },
+    {
+      "id": "F004",
+      "category": "identity",
+      "statement": "姓名：李海翔。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F005",
+      "category": "contact",
+      "statement": "电话：13670360830。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "投递前确认是否仍在使用。"
+    },
+    {
+      "id": "F006",
+      "category": "contact",
+      "statement": "邮箱：3282361741@qq.com。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "投递前确认是否仍在使用。"
+    },
+    {
+      "id": "F007",
+      "category": "location",
+      "statement": "原简历住址：广东省汕头市。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "不推断现居地或目标城市。"
+    },
+    {
+      "id": "F008",
+      "category": "personal_optional",
+      "statement": "原简历出生年月 2000.07、民族汉、身高 175cm。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "默认不放入面向岗位的简历。"
+    },
+    {
+      "id": "F009",
+      "category": "education",
+      "statement": "2018.09 至 2022.06，宁波工程学院，工程管理，本科。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F010",
+      "category": "education",
+      "statement": "主修课程：管理学、经济学、工程力学、管理信息系统、统计学、财务管理等。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F011",
+      "category": "employment",
+      "statement": "原简历记载浙江清环智慧科技有限公司，岗位为驻场工程师，任职时间为 2023.08 至 2026.06。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F012",
+      "category": "project",
+      "statement": "参与国家海绵城市示范城市项目监测驻场；整理降雨排水量、水质等监测数据，分析考核相关指标（如径流控制率），汇总监测报告提供给业主并用于考核展示。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "待确认城市、项目周期、指标口径、本人负责范围和报告频次。"
+    },
+    {
+      "id": "F013",
+      "category": "delivery",
+      "statement": "配合业主完成各工程项目全流程管控等本地化服务。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "全流程具体阶段、本人决策权与交付责任未明确，不直接改写为独立主导全过程。"
+    },
+    {
+      "id": "F014",
+      "category": "project_outcome",
+      "statement": "旧简历记载驻场城市 2023 年获国家 B 级评价，2024 年和 2025 年获国家 A 级评价。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "项目/城市层面的结果，待核实正式评价名称和证据；不能写成由个人促成，初稿暂不使用。"
+    },
+    {
+      "id": "F015",
+      "category": "project",
+      "statement": "协助多个城市的管网诊断项目，分析地块雨污混接、入流入渗等问题，整理报告，为业主政府部门后续改造提供数据支撑。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "待确认城市数量、本人分析方法、具体交付物及后续应用。"
+    },
+    {
+      "id": "F016",
+      "category": "project",
+      "statement": "协助参与监测设备出售及租赁服务项目，配合利用监测数据完成诊断分析，并具备一定设备运行维护经验。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "不推断个人销售额、成交责任或独立选型能力。"
+    },
+    {
+      "id": "F017",
+      "category": "presales",
+      "statement": "配合参与项目售前工作，包括监测实施方案编制及标书等。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "待确认具体章节、是否参与需求交流/讲标、投标数量和个人边界。"
+    },
+    {
+      "id": "F018",
+      "category": "employment",
+      "statement": "2022.05 至 2023.06，在韩江建设有限公司担任监理工程师。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "与毕业时间存在交叠，可能为实习或正式任职，待问清；不自行改日期。"
+    },
+    {
+      "id": "F019",
+      "category": "delivery",
+      "statement": "在韩江建设有限公司负责项目监理及项目资料工作。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "旧简历信息较少，待补具体工程、检查内容、资料类型及职责边界。"
+    },
+    {
+      "id": "F020",
+      "category": "campus",
+      "statement": "2018.09 至 2020.06，宁波工程学院组织部干事/副部，参与团委工作并协助举办活动。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F021",
+      "category": "certificate",
+      "statement": "普通话二级乙等；大学英语四级（CET-4）；通过全国计算机二级考试。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F022",
+      "category": "tools",
+      "statement": "原简历自述熟练运用 Office 相关软件。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "具体 Excel/PowerPoint 能力与工作样例待访谈。"
+    },
+    {
+      "id": "F023",
+      "category": "tools",
+      "statement": "原简历自述熟悉 CAD、ArcGIS、Visio、Adobe Illustrator 等画图软件，同时利用 Python 辅助分析数据。",
+      "status": "imported",
+      "source_ids": [
+        "S001"
+      ],
+      "notes": "工具熟练程度及独立完成的实例待核实，不扩写为精通/开发平台。"
+    }
+  ]
+}

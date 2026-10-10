@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "status": "draft",
+  "pages": 1,
+  "max_pages": 2,
+  "pdf": "/Users/tim/Desktop/海翔简历/drafts/baseline-20261010/resume.pdf",
+  "html": "/Users/tim/Desktop/海翔简历/drafts/baseline-20261010/resume.html",
+  "font": "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+  "font_sha256": "876af2cd4854644e7f3e7feb2f688997fdb3343c6df6693611209c9dfb47ccec",
+  "renderer_sha256": "2de6a1ecd4f2ca6f66f0322e472a90109b0c48fa108d5e7af867cacab68f0bd8",
+  "input_sha256": "59dabcbac65400bcabcbbf8e6fc33cad618321f8eb76254b99edb07371219d4f",
+  "pdf_sha256": "b999f63aded7fb5ddae2aef4b2a1d5093d3e9a534219a4a1526072d43bc263c9",
+  "html_sha256": "e81ca563916a0a5caadf8a3b6fe85111569dfb3ed7ac57d7921a4199e4e8e725"
+}
